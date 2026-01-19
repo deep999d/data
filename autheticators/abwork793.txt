@@ -1,0 +1,1 @@
+otpauth://totp/Google:abwork793%40gmail.com?secret=w2scyge26foynu5b77wb77yyg47uxcpu&issuer=Google

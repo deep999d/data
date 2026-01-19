@@ -1,0 +1,1 @@
+otpauth://totp/Google:jacimoods198%40gmail.com?secret=ruex5kqakhayvot52jqfvxgcrek56tqm&issuer=Google

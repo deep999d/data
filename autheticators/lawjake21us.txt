@@ -1,0 +1,1 @@
+otpauth://totp/Google:lawjake21us%40gmail.com?secret=vppft6eec2nfb63srnacy4n2fmsubhi3&issuer=Google

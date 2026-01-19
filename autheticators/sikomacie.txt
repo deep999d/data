@@ -1,0 +1,1 @@
+otpauth://totp/Google:sikomacie%40gmail.com?secret=uiu7rbxyv4bdf2zqcf7kkf4wpkhgdiia&issuer=Google

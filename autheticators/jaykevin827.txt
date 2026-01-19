@@ -1,0 +1,1 @@
+otpauth://totp/Google:jaykevin827%40gmail.com?secret=4wzvexnsnrjfsvgzmiwar552xi2wit4p&issuer=Google
