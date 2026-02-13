@@ -1,4 +1,0 @@
-otpauth://totp/Indeed:smaciej140%40gmail.com?secret=E5CTTD337VLPPXSGM5OSQBKUGKCI2QU2&issuer=Indeed
-otpauth://totp/Google:smaciej140%40gmail.com?secret=6ruzo7mx23difp2lhnymcbdyk7ur5reb&issuer=Google
-otpauth://totp/CoinPayments.net:smaciej140%40gmail.com?secret=XD5PNQRHPSGBFIZNETDKIBLSAZV4T7PD&issuer=CoinPayments.net
-otpauth://totp/Google:smaciej140%40gmail.com?secret=dkgy4ulvrolktbosbmufesdmczbwjbvu&issuer=Google

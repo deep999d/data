@@ -1,1 +1,0 @@
-otpauth://totp/Google:nikolaystankov015%40gmail.com?secret=fkp3e2kymm35jvbev7zqpkfnrpt33hmf&issuer=Google

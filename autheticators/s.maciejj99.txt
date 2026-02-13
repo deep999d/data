@@ -1,1 +1,0 @@
-otpauth://totp/Google:s.maciejj99%40gmail.com?secret=k53bd65mejc2od2nmmy46cr4suyisogw&issuer=Google

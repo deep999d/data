@@ -1,2 +1,0 @@
-otpauth://totp/Google:deepatel089%40gmail.com?secret=rmsuu7khzpoxa3jznqhacfx7ozw22tep&issuer=Google
-otpauth://totp/GitHub:deep999d?secret=L56QSCOUWV5CPPQJ&issuer=GitHub

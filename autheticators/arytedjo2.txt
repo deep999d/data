@@ -1,1 +1,0 @@
-otpauth://totp/Google:arytedjo2%40gmail.com?secret=jj5zloaagzhc6lkbqc7pm2h663ebksds&issuer=Google

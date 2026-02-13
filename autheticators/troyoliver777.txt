@@ -1,1 +1,0 @@
-otpauth://totp/Google:troyoliver777%40gmail.com?secret=xahtxbafqgmaxsrnvuhcxlcxvscypbpj&issuer=Google

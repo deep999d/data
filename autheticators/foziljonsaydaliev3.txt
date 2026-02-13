@@ -1,1 +1,0 @@
-otpauth://totp/Google:foziljonsaydaliev3%40gmail.com?secret=5salalyonmlup34wjibi42xpscykzx4k&issuer=Google
